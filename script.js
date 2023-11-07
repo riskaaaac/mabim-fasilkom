@@ -4,7 +4,7 @@ function Login() {
     var password = document.login.password.value;
     if (username == "Calvin" && password =="William"){
             if(confirm("Apakah anda ingin login?") == true){
-                window.location.href = "https://github.com/calvinww123"
+                window.location.href = "https://github.com/riskaaac"
             } else {
                 alert("Login dibatalkan !");
             }
